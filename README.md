@@ -7,6 +7,6 @@ Foi utilizado na criação:
 
 #### Media Queries
 
-Foi utizado para redimisionar a página dependendo do tamanho da tela.
+Foi utilizado para redimensionar a página dependendo do tamanho da tela.
 
 🚀🚀
